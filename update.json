@@ -1,0 +1,12 @@
+{
+    "version":  "0.7.0",
+    "notes":  "Socle unique Electron (retrait de Tauri) + mises a jour semi-automatiques.",
+    "pub_date":  "2026-07-20T10:51:39Z",
+    "platforms":  {
+                      "darwin-x64":  {
+                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.0/LogopediQ-0.7.0.dmg",
+                                         "sha256":  "e4fdc261a4b4c994246773cbe57fdc0efcfad8f60ee5cd6bd6b922f764988746",
+                                         "size":  92336087
+                                     }
+                  }
+}
