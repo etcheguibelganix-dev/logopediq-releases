@@ -1,12 +1,12 @@
 {
-    "version":  "0.7.1",
-    "notes":  "Enveloppe de mise a jour atomique + diagnostics.",
-    "pub_date":  "2026-07-20T11:06:44Z",
+    "version":  "0.7.2",
+    "notes":  "Fermeture automatique de l\u0027app pour terminer la mise a jour.",
+    "pub_date":  "2026-07-20T11:19:53Z",
     "platforms":  {
                       "darwin-x64":  {
-                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.1/LogopediQ-0.7.1.dmg",
-                                         "sha256":  "32a4b609000d10f12820a28afbf9b46c43a64d8b69cc412dc64c5e90c71abf41",
-                                         "size":  92337328
+                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.2/LogopediQ-0.7.2.dmg",
+                                         "sha256":  "64b4a74fd10e7459d53b3b368fd560274a79188cdc5ed93b8a7576c9d5072283",
+                                         "size":  92331783
                                      }
                   }
 }
