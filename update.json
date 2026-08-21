@@ -1,7 +1,7 @@
 {
     "version":  "0.7.3",
     "notes":  "Publication technique : consolidation interne du magasin chiffre. Aucun changement d\u0027usage.",
-    "pub_date":  "2026-08-21T17:13:07Z",
+    "pub_date":  "2026-08-21T17:26:53Z",
     "platforms":  {
                       "darwin-x64":  {
                                          "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.3/LogopediQ-0.7.3.dmg",
