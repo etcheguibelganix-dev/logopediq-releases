@@ -1,12 +1,17 @@
 {
-    "version":  "0.7.2",
-    "notes":  "Fermeture automatique de l\u0027app pour terminer la mise a jour.",
-    "pub_date":  "2026-07-20T11:19:53Z",
+    "version":  "0.7.3",
+    "notes":  "Publication technique : consolidation interne du magasin chiffre. Aucun changement d\u0027usage.",
+    "pub_date":  "2026-08-21T17:13:07Z",
     "platforms":  {
                       "darwin-x64":  {
-                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.2/LogopediQ-0.7.2.dmg",
-                                         "sha256":  "64b4a74fd10e7459d53b3b368fd560274a79188cdc5ed93b8a7576c9d5072283",
-                                         "size":  92331783
-                                     }
+                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.3/LogopediQ-0.7.3.dmg",
+                                         "sha256":  "4aab87f40904c0ed59a0c5e1f5833cc4ba3ea153996d0cf9e921b1fc2d83ffe3",
+                                         "size":  92332210
+                                     },
+                      "win32-x64":  {
+                                        "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.3/LogopediQ-0.7.3-setup.exe",
+                                        "sha256":  "b6a43a2bbb19e2a094af915f4ec4b45f8147cd7671413fb850c4ce5ca256bb09",
+                                        "size":  69414778
+                                    }
                   }
 }
