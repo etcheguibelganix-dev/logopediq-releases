@@ -1,17 +1,17 @@
 {
-    "version":  "0.7.3",
-    "notes":  "Publication technique : consolidation interne du magasin chiffre. Aucun changement d\u0027usage.",
-    "pub_date":  "2026-08-21T17:26:53Z",
+    "version":  "0.8.0",
+    "notes":  "Éditeur entièrement ajustable, export Word lisible hors Word, bilan remis en page",
+    "pub_date":  "2026-08-22T16:05:35Z",
     "platforms":  {
                       "darwin-x64":  {
-                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.3/LogopediQ-0.7.3.dmg",
-                                         "sha256":  "4aab87f40904c0ed59a0c5e1f5833cc4ba3ea153996d0cf9e921b1fc2d83ffe3",
-                                         "size":  92332210
+                                         "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.8.0/LogopediQ-0.8.0.dmg",
+                                         "sha256":  "5c36e3c9c81c931eed7d433f69c302c9cfc534ccc1fbeaedbb2eefa647106047",
+                                         "size":  93941420
                                      },
                       "win32-x64":  {
-                                        "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.7.3/LogopediQ-0.7.3-setup.exe",
-                                        "sha256":  "b6a43a2bbb19e2a094af915f4ec4b45f8147cd7671413fb850c4ce5ca256bb09",
-                                        "size":  69414778
+                                        "url":  "https://github.com/etcheguibelganix-dev/logopediq-releases/releases/download/v0.8.0/LogopediQ-0.8.0-setup.exe",
+                                        "sha256":  "4d15ae1fbf687f807ff49891d73bccd5bd37f90de1ce4747e183b42b7b2000ff",
+                                        "size":  69985308
                                     }
                   }
 }
